@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+.todo-create{
+    width: 500px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 3rem;
+    
+}
+.input{
+    width: 100%;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.input-button{
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    font-size:18px ;
+    padding: 0.24rem 0.74rem ;
+    border-radius: 5px;
+    margin-top: 1rem;
+}

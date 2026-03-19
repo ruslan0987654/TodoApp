@@ -1,0 +1,14 @@
+.todo-info{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid lightgray;
+    padding: 8px;
+    margin-top: 1rem;
+}
+.icon{
+    font-size: 28px;
+    font-weight: bold;
+}
+.icon-dec{
+    margin-right: 2px;
+}
